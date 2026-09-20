@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "name": "web-render",
+  "title": "web-render",
+  "version": "0.1.2",
+  "created_utc": "2026-09-20T12:09:51+00:00",
+  "entry_game": "game/web-render.range",
+  "requirements": {
+    "webgl": 2,
+    "threads": false,
+    "cross_origin_isolation": false
+  },
+  "runtime": {
+    "RangeRuntime.js": {
+      "bytes": 927910,
+      "sha256": "7f00c81693d05390212c5b280c958420ec35b7975a28ad8d3a5a6bf288064364"
+    },
+    "RangeRuntime.wasm": {
+      "bytes": 21455205,
+      "sha256": "f0aa498341de7ef198db338352ff1cb3b2d4dcd601de9b13740dbec16bb54084"
+    },
+    "RangeRuntime.data": {
+      "bytes": 26017780,
+      "sha256": "f60ec06bfced6f5f689594f155517fddaa0ee3560a73aadfe7c865dc00c1cc58"
+    }
+  },
+  "files": {
+    "game/web-render.range": {
+      "bytes": 312980,
+      "sha256": "d23ef3d6837dfdd98ada295e18f3b6697460f132567960f19c3ed94449b3bbad"
+    },
+    "HOSTING.md": {
+      "bytes": 1822,
+      "sha256": "5b83383780c0f4ec8ad9efea5360a2478f8d42b3e91810a00e9a8fdc49ae1c5b"
+    },
+    "index.html": {
+      "bytes": 11261,
+      "sha256": "86deb6a5457109aaaad1b76caff93c7520f60774046afa3479967a2bc409fe9f"
+    },
+    "RangeRuntime.data": {
+      "bytes": 26017780,
+      "sha256": "f60ec06bfced6f5f689594f155517fddaa0ee3560a73aadfe7c865dc00c1cc58"
+    },
+    "RangeRuntime.js": {
+      "bytes": 927910,
+      "sha256": "7f00c81693d05390212c5b280c958420ec35b7975a28ad8d3a5a6bf288064364"
+    },
+    "RangeRuntime.wasm": {
+      "bytes": 21455205,
+      "sha256": "f0aa498341de7ef198db338352ff1cb3b2d4dcd601de9b13740dbec16bb54084"
+    },
+    "serve.py": {
+      "bytes": 870,
+      "sha256": "633c59ae9cc13e4bc2dd6d77ba1764155b140f58a7369d05ec463788840092a0"
+    }
+  },
+  "warnings": []
+}
