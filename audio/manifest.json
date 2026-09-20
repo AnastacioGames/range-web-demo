@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "name": "web-audio",
+  "title": "web-audio",
+  "version": "0.1.2",
+  "created_utc": "2026-09-20T12:26:54+00:00",
+  "entry_game": "game/web-audio.range",
+  "requirements": {
+    "webgl": 2,
+    "threads": false,
+    "cross_origin_isolation": false
+  },
+  "runtime": {
+    "RangeRuntime.js": {
+      "bytes": 927910,
+      "sha256": "7f00c81693d05390212c5b280c958420ec35b7975a28ad8d3a5a6bf288064364"
+    },
+    "RangeRuntime.wasm": {
+      "bytes": 21455205,
+      "sha256": "f0aa498341de7ef198db338352ff1cb3b2d4dcd601de9b13740dbec16bb54084"
+    },
+    "RangeRuntime.data": {
+      "bytes": 26017780,
+      "sha256": "f60ec06bfced6f5f689594f155517fddaa0ee3560a73aadfe7c865dc00c1cc58"
+    }
+  },
+  "files": {
+    "game/web-audio.range": {
+      "bytes": 257536,
+      "sha256": "a26467c75987cf790f7249d428142a7d04366097ab190c8a759aa7f6f3ea4a23"
+    },
+    "HOSTING.md": {
+      "bytes": 1822,
+      "sha256": "5b83383780c0f4ec8ad9efea5360a2478f8d42b3e91810a00e9a8fdc49ae1c5b"
+    },
+    "index.html": {
+      "bytes": 11381,
+      "sha256": "e23250cc9f00c662e51bc3d4df680748a66bb5fa7151c5d10d0f8f8e0b36312b"
+    },
+    "RangeRuntime.data": {
+      "bytes": 26017780,
+      "sha256": "f60ec06bfced6f5f689594f155517fddaa0ee3560a73aadfe7c865dc00c1cc58"
+    },
+    "RangeRuntime.js": {
+      "bytes": 927910,
+      "sha256": "7f00c81693d05390212c5b280c958420ec35b7975a28ad8d3a5a6bf288064364"
+    },
+    "RangeRuntime.wasm": {
+      "bytes": 21455205,
+      "sha256": "f0aa498341de7ef198db338352ff1cb3b2d4dcd601de9b13740dbec16bb54084"
+    },
+    "serve.py": {
+      "bytes": 870,
+      "sha256": "633c59ae9cc13e4bc2dd6d77ba1764155b140f58a7369d05ec463788840092a0"
+    }
+  },
+  "warnings": []
+}
