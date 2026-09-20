@@ -4,5 +4,3 @@ Gerado por `tools/web/package-web.py` do AnastacioEngine.
 
 - `/` : cena de render (sem som).
 - `/audio/` : cena de áudio (tom WAV em loop; clique em Jogar para liberar o som).
-- `/music/` : cena com a música "Anastacio Music" (MP3, do próprio repositório da engine).
-- `/music-ogg/` : cena com a música `capaceton.ogg` (OGG Vorbis; música pública do YouTube liberada pelo autor do projeto).
