@@ -3,7 +3,7 @@
   "name": "web-render",
   "title": "web-render",
   "version": "0.1.2",
-  "created_utc": "2026-09-20T12:09:51+00:00",
+  "created_utc": "2026-09-20T12:13:46+00:00",
   "entry_game": "game/web-render.range",
   "requirements": {
     "webgl": 2,
@@ -34,8 +34,8 @@
       "sha256": "5b83383780c0f4ec8ad9efea5360a2478f8d42b3e91810a00e9a8fdc49ae1c5b"
     },
     "index.html": {
-      "bytes": 11261,
-      "sha256": "86deb6a5457109aaaad1b76caff93c7520f60774046afa3479967a2bc409fe9f"
+      "bytes": 11384,
+      "sha256": "40bfbadfbc2b05d687ed9f22493ddb5ed5c9f4f792d303c1ee0f29dd08828105"
     },
     "RangeRuntime.data": {
       "bytes": 26017780,
