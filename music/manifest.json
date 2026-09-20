@@ -3,7 +3,7 @@
   "name": "web-music",
   "title": "web-music",
   "version": "0.1.2",
-  "created_utc": "2026-09-20T12:28:11+00:00",
+  "created_utc": "2026-09-20T12:32:10+00:00",
   "entry_game": "game/web-music.range",
   "requirements": {
     "webgl": 2,
@@ -26,8 +26,8 @@
   },
   "files": {
     "game/web-music.range": {
-      "bytes": 4588836,
-      "sha256": "6aa059faa00f33cca0d7c610599a0e79415efabb7b3918555aca3851375407fe"
+      "bytes": 2926820,
+      "sha256": "9062ce4ce705d43f6de08e08d2433bbccf320899160daff2a113bc01e9fed2d3"
     },
     "HOSTING.md": {
       "bytes": 1822,
